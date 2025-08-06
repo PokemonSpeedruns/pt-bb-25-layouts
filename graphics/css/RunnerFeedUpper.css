@@ -1,0 +1,70 @@
+.runner-container {
+    display: flex;
+    align-items: stretch;
+    width: 1000px;
+    height: 185px;
+    font-family: 'Gen4';
+    color: white;
+    position: relative;
+    transform-origin: top left;
+    transform: scale(0.48);
+    position: absolute;
+    top: 48px;
+    left: 50px;
+}
+
+.runner-game {
+    flex: 0 0 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.runner-game > .game-img {
+    max-height: 90%;
+    width: auto;
+    transform: translateY(-15px);
+}
+
+.runner-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+
+
+.runner-top-row {
+    position: absolute;
+    top:0;
+    align-items: center;
+}
+
+.runner-name {
+    font-size: 55pt;
+    max-width: 800px;
+    margin-right: 10px;
+}
+
+.runner-bottom-row {
+    position: absolute;
+    top: 85px;
+    align-items: center;
+    font-size: 35pt;
+    color: white;
+}
+
+.pronouns,
+.runner-flag {
+    display: inline;
+    vertical-align: middle;
+}
+
+.flag-img {
+    display: inline;
+    height: 1em;
+    vertical-align: middle;
+    margin-left: 10px;
+    transform: translateY(-5px);
+}

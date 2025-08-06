@@ -1,0 +1,46 @@
+/* Font settings. */
+@font-face {
+	font-family: 'Montserrat-Black';
+	src: url('../fonts/Montserrat-Black.ttf');
+}
+
+@font-face {
+	font-family: 'Montserrat-SemiBold';
+	src: url('../fonts/Montserrat-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: 'Gen4';
+	src: url('../fonts/Actual_Gen_4_Font.ttf');
+}
+
+/* General settings. */
+body {
+	font-family: 'Gen4';
+	color: #000000;
+	width: 1920px;
+	height: 1080px;
+	/* position: absolute; */
+	margin: 0px;
+}
+
+/* Commentator name and pronouns panel. */
+.comms-container {
+	position: absolute;
+	font-size: 30pt;
+	color: white;
+}
+
+.comms-name {
+	margin-right: 10px;
+	font-stretch: semi-condensed;
+	float: left;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.comms-pronouns {
+	vertical-align: middle;
+	text-align: right;
+	float: right;
+}

@@ -1,0 +1,92 @@
+{
+  "name": "pt-bb-25-layouts",
+  "version": "0.0.1",
+  "description": "Layouts for the Platinum Glitchless Barrier Blitz 2025",
+  "author": {
+    "name": "PokemonSpeedruns"
+  },
+  "files": [
+    "graphics"
+  ],
+  "keywords": [
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": "^2.0.0",
+    "graphics": [
+      {
+        "file": "Intro.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "RunningFeeds_4Small.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "RunningFeeds_5Small.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "RunnerFeedFull.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "RunnerFeedUpper.html",
+        "width": 700,
+        "height": 610
+      },
+      
+      {
+        "file": "BackgroundWithComms.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Background.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Comms.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Break.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "BreakReplay.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Standings.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Outro.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "Ticker.html",
+        "width": 1920,
+        "height": 99
+      },
+      {
+        "file": "TechIssues.html",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "repository": "https://github.com/PokemonSpeedruns/pt-bb-24-layouts.git",
+  "license": "Apache-2.0"
+}

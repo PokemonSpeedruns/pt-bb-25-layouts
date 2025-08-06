@@ -28,8 +28,8 @@
     ],
     "player": [
       {
-        "name": "Game",
-        "key": "runnerGame"
+        "name": "Starter",
+        "key": "runnerStarter"
       }
     ]
   }

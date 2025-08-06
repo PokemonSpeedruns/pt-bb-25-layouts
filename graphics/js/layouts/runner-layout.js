@@ -39,8 +39,8 @@ $(() => {
 				// Update flag.
 				$('#flag-img').attr('src', 'img/flags/' + player.country + '.png');
 
-				// Update game.
-				$('#game-img').attr('src', 'img/logos/' + player.customData.runnerGame + '.png');
+				// Update starter.
+				$('#game-img').attr('src', 'img/logos/' + player.customData.runnerStarter + '.png');
 			}
 		}
 	}

@@ -1,0 +1,28 @@
+/* Comms panel. */
+.comms-container {
+	width: 665px;
+	height: 57px;
+	line-height: 60px;
+	z-index: 3;
+}
+
+#comms-container1 {
+	left: 1510px;
+	top: 615px;
+}
+
+#comms-container2 {
+	left: 1510px;
+	top: 710px;
+}
+
+#comms-container3 {
+	left: 1510px;
+	top: 800px;
+}
+
+/* Comms name dynamic text. */
+.comms-name {
+	max-width: 400px;
+	text-align: center;
+}

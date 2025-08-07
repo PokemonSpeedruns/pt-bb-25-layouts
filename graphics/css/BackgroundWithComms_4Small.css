@@ -1,0 +1,44 @@
+/* Comms panel. */
+.comms-container {
+    display: flex;
+    flex-direction: column;
+	width: 665px;
+	height: 57px;
+	line-height: 10px;
+	z-index: 3;
+}
+
+#comms-container1 {
+    position: absolute;
+	left: 1270px;
+	top: 780px;
+    /* left: 66.7%;
+	bottom: 23.3%; */
+}
+
+#comms-container2 {
+	left: 1270px;
+	top: 870px;
+}
+
+#comms-container3 {
+	left: 1270px;
+	top: 960px;
+}
+
+/* Comms name dynamic text. */
+.comms-name {
+	max-width: 400px;
+	text-align: center;
+}
+
+/* .comms-name {
+	max-width: 300px;
+	text-align: center;
+    height: 25px;
+}
+
+.comms-pronouns {
+	height: 20px;
+	text-align: center; 
+}*/

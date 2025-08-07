@@ -11,19 +11,19 @@
 #comms-container1 {
     position: absolute;
 	left: 1510px;
-	top: 615px;
+	top: 590px;
     /* left: 66.7%;
 	bottom: 23.3%; */
 }
 
 #comms-container2 {
 	left: 1510px;
-	top: 710px;
+	top: 680px;
 }
 
 #comms-container3 {
 	left: 1510px;
-	top: 800px;
+	top: 770px;
 }
 
 /* Comms name dynamic text. */

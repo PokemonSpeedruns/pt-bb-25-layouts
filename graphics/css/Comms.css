@@ -26,14 +26,14 @@
 
 .comms-name {
 	/* max-width: 200px; */
-	flex: 0 0 300px;
+	/* flex: 0 0 300px; */
 	text-align: center;
 	display: inline-block;
 	height: 50px;
 }
 
 .comms-pronouns {
-	flex: 0 0 100px;
+	/* flex: 0 0 100px; */
 	text-align: center;
 	display: inline-block;
 	height: 50px;

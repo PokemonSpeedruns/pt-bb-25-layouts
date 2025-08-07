@@ -1,27 +1,40 @@
 /* Comms panel. */
 .comms-container {
-	width: 560px;
-	height: 57px;
-	line-height: 50px;
+	width: 450px;
+	max-height: 57px;
+	line-height: 57px;
 	transform: translateX(-50%);
+	/* display: flex;
+	flex-wrap: nowrap; */
+
 }
 
 #comms-container1 {
-	left: 32%;
+	left: 27.8%;
 	top: 598px;
 }
 
 #comms-container2 {
-	left: 54.2%;
+	left: 50%;
 	top: 598px;
 }
 
 #comms-container3 {
-	left: 76.4%;
+	left: 72.2%;
 	top: 598px;
 }
 
 .comms-name {
-	max-width: 400px;
+	/* max-width: 200px; */
+	flex: 0 0 300px;
 	text-align: center;
+	display: inline-block;
+	height: 50px;
+}
+
+.comms-pronouns {
+	flex: 0 0 100px;
+	text-align: center;
+	display: inline-block;
+	height: 50px;
 }

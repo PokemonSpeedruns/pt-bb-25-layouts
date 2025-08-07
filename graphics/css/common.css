@@ -17,7 +17,7 @@
 /* General settings. */
 body {
 	font-family: 'Gen4';
-	color: #000000;
+	color: white;
 	width: 1920px;
 	height: 1080px;
 	/* position: absolute; */
@@ -28,7 +28,7 @@ body {
 .comms-container {
 	position: absolute;
 	font-size: 30pt;
-	color: white;
+	/* color: white; */
 }
 
 .comms-name {

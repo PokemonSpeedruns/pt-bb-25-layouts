@@ -1,14 +1,19 @@
 /* Comms panel. */
 .comms-container {
+    display: flex;
+    flex-direction: column;
 	width: 665px;
 	height: 57px;
-	line-height: 60px;
-	z-index: 3;
+	line-height: 55px;
+	/* z-index: 3; */
 }
 
 #comms-container1 {
+    position: absolute;
 	left: 1510px;
 	top: 615px;
+    /* left: 66.7%;
+	bottom: 23.3%; */
 }
 
 #comms-container2 {
@@ -23,6 +28,12 @@
 
 /* Comms name dynamic text. */
 .comms-name {
-	max-width: 400px;
+	max-width: 300px;
+	text-align: center;
+    height: 25px;
+}
+
+.comms-pronouns {
+	height: 20px;
 	text-align: center;
 }

@@ -50,7 +50,14 @@
         "file": "BackgroundWithComms_5Small.html",
         "width": 1920,
         "height": 1080
+      },   
+
+      {
+        "file": "BackgroundWithComms_4Small.html",
+        "width": 1920,
+        "height": 1080
       },
+
       {
         "file": "Background.html",
         "width": 1920,
@@ -67,7 +74,7 @@
         "height": 1080
       },
       {
-        "file": "BreakReplay.html",
+        "file": "BreakWithRunner.html",
         "width": 1920,
         "height": 1080
       },
